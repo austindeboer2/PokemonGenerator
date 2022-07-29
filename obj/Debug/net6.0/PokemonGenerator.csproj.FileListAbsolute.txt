@@ -1,0 +1,45 @@
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.exe
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.deps.json
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.runtimeconfig.json
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.dll
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.pdb
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.AssemblyReference.cache
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfoInputs.cache
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfo.cs
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.CoreCompileInputs.cache
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.dll
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\refint\PokemonGenerator.dll
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.pdb
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.genruntimeconfig.cache
+E:\GitHub Repos\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\ref\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\refint\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\ref\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\bin\Debug\net6.0\PokemonGenerator.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\refint\PokemonGenerator.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\PokemonGenerator.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\PokemonGenerator\PokemonGenerator\obj\Debug\net6.0\ref\PokemonGenerator.dll
