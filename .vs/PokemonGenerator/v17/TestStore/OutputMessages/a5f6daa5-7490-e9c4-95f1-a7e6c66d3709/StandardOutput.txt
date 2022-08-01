@@ -1,0 +1,8000 @@
+Total: 112
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Electric & Fighting
+Total: 115
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Fire
+Total: 109
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Poison
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Ground
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Electric
+Total: 113
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Fighting
+Total: 113
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Fairy
+Total: 117
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Bug
+Total: 116
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ice
+Total: 117
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Rock
+Total: 115
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 112
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ice
+Total: 118
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 114
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 111
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Poison & Ice
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 110
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Psychic & Fairy
+Total: 114
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Psychic
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Grass
+Total: 112
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Electric
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Fairy
+Total: 117
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Ground
+Total: 115
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Poison
+Total: 112
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Rock
+Total: 118
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Water
+Total: 111
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Psychic
+Total: 111
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Ghost & Psychic
+Total: 115
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Fire
+Total: 111
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Water
+Total: 112
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Rock
+Total: 110
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Ice
+Total: 113
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Ghost
+Total: 114
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Grass
+Total: 115
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 116
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Grass
+Total: 118
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Bug
+Total: 113
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Bug
+Total: 115
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fighting
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Rock
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Psychic
+Total: 112
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Ice
+Total: 119
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Fairy
+Total: 115
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Bug & Ghost
+Total: 120
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Ghost
+Total: 113
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Ground
+Total: 114
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Dark & Psychic
+Total: 117
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Grass
+Total: 114
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fairy
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Rock & Ice
+Total: 111
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Poison & Rock
+Total: 114
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Fire
+Total: 115
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Psychic
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 113
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Poison
+Total: 113
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Ice
+Total: 114
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Grass
+Total: 114
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Dark & Fairy
+Total: 116
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Flying
+Total: 114
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Fighting
+Total: 118
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Rock & Bug
+Total: 111
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Grass & Steel
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Rock & Ice
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Electric
+Total: 110
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Ice
+Total: 114
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Flying & Fairy
+Total: 114
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Rock
+Total: 109
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Bug & Grass
+Total: 118
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Poison & Fire
+Total: 112
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Fire
+Total: 111
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 109
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Ghost
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Bug
+Total: 119
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 118
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Electric
+Total: 111
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Fairy & Water
+Total: 109
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Ground & Bug
+Total: 111
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Steel
+Total: 115
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Electric
+Total: 114
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Bug
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Ghost
+Total: 113
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Psychic
+Total: 113
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 115
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Ground & Bug
+Total: 113
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Ghost
+Total: 108
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 115
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Dragon & Normal
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Grass
+Total: 116
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Poison
+Total: 112
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Bug
+Total: 118
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Psychic
+Total: 111
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Water
+Total: 114
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Poison
+Total: 110
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 117
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Bug & Fairy
+Total: 111
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Fairy
+Total: 111
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Grass
+Total: 113
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Steel
+Total: 113
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Rock
+Total: 116
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 110
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Psychic
+Total: 112
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Poison
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Normal
+Total: 118
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Electric
+Total: 115
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Electric
+Total: 109
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Poison
+Total: 112
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Electric
+Total: 115
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Flying
+Total: 114
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 118
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Poison
+Total: 116
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Dark
+Total: 113
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Flying
+Total: 108
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fairy
+Total: 113
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Electric
+Total: 115
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Dragon
+Total: 113
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Electric
+Total: 111
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Flying & Electric
+Total: 111
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Steel
+Total: 111
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Ice & Dark
+Total: 112
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Psychic
+Total: 119
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Dragon
+Total: 114
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Dragon
+Total: 109
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 114
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Rock
+Total: 114
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Water
+Total: 112
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Poison
+Total: 113
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Steel & Ice
+Total: 119
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Poison
+Total: 116
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 114
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Dark
+Total: 117
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Grass
+Total: 111
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Rock & Dark
+Total: 115
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Flying
+Total: 114
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Dragon
+Total: 114
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Ground
+Total: 118
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 114
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Bug & Fire
+Total: 111
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Electric
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Normal & Fighting
+Total: 114
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Flying
+Total: 115
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Ground & Electric
+Total: 112
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Normal
+Total: 115
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Ghost
+Total: 116
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Fire
+Total: 119
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Steel
+Total: 119
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Poison
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Dragon
+Total: 119
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Fighting
+Total: 112
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Fighting
+Total: 114
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Ground
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Poison
+Total: 116
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fighting & Fighting
+Total: 116
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Dark
+Total: 116
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Flying
+Total: 113
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Normal
+Total: 115
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Ghost
+Total: 115
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Fighting
+Total: 108
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 111
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 113
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Poison
+Total: 114
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Ground & Fire
+Total: 115
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Fighting
+Total: 119
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Ground
+Total: 117
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Steel
+Total: 115
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Ground
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Dragon
+Total: 116
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Rock
+Total: 111
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 112
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ice & Dark
+Total: 110
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Fighting
+Total: 112
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Dark
+Total: 113
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Rock
+Total: 119
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Rock
+Total: 114
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Water
+Total: 115
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Ground
+Total: 117
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Rock
+Total: 117
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Fighting & Bug
+Total: 117
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Ghost
+Total: 115
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Dragon
+Total: 112
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Ground
+Total: 115
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Rock
+Total: 111
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Ghost & Dragon
+Total: 116
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Ground
+Total: 113
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Bug
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Steel
+Total: 113
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 112
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Dark
+Total: 118
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Dragon
+Total: 110
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Bug
+Total: 116
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Ghost & Fire
+Total: 109
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Normal
+Total: 111
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Dragon
+Total: 116
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Electric & Flying
+Total: 118
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 116
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Dark
+Total: 113
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Water
+Total: 117
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Dark
+Total: 109
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 114
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Grass
+Total: 114
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Flying
+Total: 114
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Normal & Flying
+Total: 114
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Water
+Total: 119
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Ground
+Total: 113
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Flying
+Total: 109
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Electric
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 116
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Rock
+Total: 112
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Poison
+Total: 113
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Electric
+Total: 118
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Fighting & Psychic
+Total: 117
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 119
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Electric
+Total: 112
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 118
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 116
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Fairy
+Total: 111
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Poison
+Total: 118
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Water
+Total: 114
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Fairy & Dragon
+Total: 112
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 113
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Normal & Psychic
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Flying
+Total: 117
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Normal
+Total: 111
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fire & Steel
+Total: 112
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Psychic
+Total: 118
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Steel
+Total: 113
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Steel
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Rock
+Total: 116
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Psychic
+Total: 113
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Psychic
+Total: 115
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Electric
+Total: 114
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Steel & Rock
+Total: 114
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Fairy
+Total: 116
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Ghost
+Total: 114
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 116
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Rock
+Total: 113
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Ghost
+Total: 115
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Ice
+Total: 110
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Grass
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Water
+Total: 115
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Ice
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Ghost & Grass
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Dark
+Total: 114
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Dragon & Dark
+Total: 109
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Steel
+Total: 110
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Flying
+Total: 117
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Bug
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Poison
+Total: 111
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Steel
+Total: 114
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Electric
+Total: 116
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Ground
+Total: 113
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Poison
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Water
+Total: 114
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Dark
+Total: 108
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Water
+Total: 118
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Grass
+Total: 116
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Water
+Total: 113
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 114
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Psychic
+Total: 114
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Steel
+Total: 116
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Steel
+Total: 111
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Psychic
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Flying
+Total: 117
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Ice
+Total: 108
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 117
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Dragon
+Total: 108
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Flying
+Total: 114
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 113
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Rock
+Total: 114
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Ground
+Total: 114
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Fairy
+Total: 114
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Rock & Dragon
+Total: 111
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Fighting
+Total: 117
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Ghost
+Total: 113
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Fire
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Flying & Bug
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Ground & Fire
+Total: 114
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Normal
+Total: 115
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Ice
+Total: 120
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Rock
+Total: 111
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fairy & Ground
+Total: 116
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Grass
+Total: 116
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Poison
+Total: 116
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Ice & Fire
+Total: 110
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Normal
+Total: 111
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Water
+Total: 112
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Electric
+Total: 111
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Steel & Steel
+Total: 108
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Rock
+Total: 116
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Psychic
+Total: 112
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ice
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Electric
+Total: 110
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 112
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Steel
+Total: 114
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Grass
+Total: 115
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Grass
+Total: 112
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Grass
+Total: 115
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Electric & Steel
+Total: 117
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Fairy
+Total: 114
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Psychic
+Total: 109
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Bug
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Poison
+Total: 117
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Grass
+Total: 114
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Ghost & Dragon
+Total: 112
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ice
+Total: 117
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Fighting
+Total: 116
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 112
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Normal
+Total: 116
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Fighting
+Total: 112
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Psychic
+Total: 117
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Ghost
+Total: 112
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Fairy
+Total: 112
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 114
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Rock
+Total: 109
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Poison
+Total: 113
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Electric & Fairy
+Total: 118
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Bug
+Total: 115
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Steel
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Fairy
+Total: 113
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Poison
+Total: 117
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Fighting
+Total: 117
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Bug
+Total: 113
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Fire
+Total: 116
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Water & Water
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Normal & Fairy
+Total: 112
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Fighting
+Total: 112
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Fire
+Total: 115
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Ghost
+Total: 115
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Rock
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Steel
+Total: 113
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ice
+Total: 112
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 115
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Ice
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Dark
+Total: 115
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ice & Water
+Total: 114
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Electric
+Total: 111
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Dragon
+Total: 111
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 111
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 120
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Grass
+Total: 117
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Dark
+Total: 114
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Psychic
+Total: 117
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Grass
+Total: 114
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Electric
+Total: 115
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Flying & Dark
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Grass
+Total: 111
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Fairy
+Total: 115
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Psychic
+Total: 121
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Rock
+Total: 112
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Poison
+Total: 116
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ice
+Total: 115
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Water
+Total: 116
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Fairy
+Total: 110
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Ice
+Total: 114
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 117
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Fairy
+Total: 119
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Ghost
+Total: 112
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Water
+Total: 118
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Fire
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Poison
+Total: 116
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Water & Bug
+Total: 112
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Bug & Fighting
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Ice & Fighting
+Total: 110
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Poison
+Total: 113
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Ghost
+Total: 114
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Fire
+Total: 111
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Normal
+Total: 114
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Dragon
+Total: 117
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Dark & Fairy
+Total: 111
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Dragon
+Total: 109
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fighting & Fire
+Total: 113
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Ground
+Total: 114
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Ground
+Total: 111
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Fire
+Total: 111
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ice
+Total: 115
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Ground & Flying
+Total: 115
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Ground
+Total: 114
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Dark
+Total: 113
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Electric
+Total: 114
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Water & Flying
+Total: 110
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Grass
+Total: 113
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 116
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Grass
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Fairy
+Total: 113
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Water & Dark
+Total: 112
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Ice
+Total: 117
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Fairy
+Total: 121
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Dark & Bug
+Total: 111
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Rock
+Total: 112
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Bug
+Total: 112
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Steel & Electric
+Total: 115
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Fairy
+Total: 111
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Ice
+Total: 111
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Poison
+Total: 114
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Flying
+Total: 114
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Ground
+Total: 114
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Ground
+Total: 118
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Ground
+Total: 110
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Flying
+Total: 117
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Grass
+Total: 116
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 116
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Steel
+Total: 118
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Electric & Electric
+Total: 109
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 117
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 115
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Ice
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Ice
+Total: 114
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Steel
+Total: 115
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Fighting & Dark
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Ice
+Total: 114
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Normal
+Total: 119
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 109
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Dragon
+Total: 114
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Steel & Dragon
+Total: 113
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 115
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Dragon
+Total: 114
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Flying
+Total: 114
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Bug
+Total: 110
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Rock
+Total: 117
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Ground
+Total: 112
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Water
+Total: 112
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Dark
+Total: 118
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Bug & Flying
+Total: 111
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Poison
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Psychic
+Total: 115
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 108
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 115
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Bug
+Total: 114
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 113
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Dragon
+Total: 115
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 110
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Electric
+Total: 112
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 111
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Steel
+Total: 108
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fire
+Total: 112
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 110
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 114
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ice
+Total: 113
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Flying
+Total: 110
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Poison & Dragon
+Total: 114
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Ground
+Total: 114
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 111
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Poison
+Total: 116
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 109
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 118
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 119
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Dragon
+Total: 111
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Normal
+Total: 112
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 114
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Ground
+Total: 117
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 116
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Psychic
+Total: 116
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Flying
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Psychic
+Total: 115
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Dark
+Total: 112
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Dragon
+Total: 119
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 108
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Psychic
+Total: 115
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Psychic
+Total: 116
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Ground
+Total: 117
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 111
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Poison
+Total: 112
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Fire & Fighting
+Total: 113
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Water
+Total: 115
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Dark
+Total: 114
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 110
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Psychic
+Total: 112
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Ground
+Total: 114
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Dark & Dragon
+Total: 111
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Bug
+Total: 117
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Water
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Electric
+Total: 111
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Fire & Fire
+Total: 116
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fire
+Total: 118
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 113
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Dragon
+Total: 114
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Grass
+Total: 117
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Normal
+Total: 112
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Bug
+Total: 115
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 114
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Fighting
+Total: 116
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fire
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Fire
+Total: 110
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Normal
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Water
+Total: 116
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Normal
+Total: 115
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Poison
+Total: 117
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 109
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Flying
+Total: 111
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Bug
+Total: 111
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 113
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Water
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Rock
+Total: 115
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Grass
+Total: 123
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Ice
+Total: 110
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Grass
+Total: 108
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Normal
+Total: 114
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Normal
+Total: 116
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Electric
+Total: 116
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 115
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Water
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ghost & Fire
+Total: 111
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Flying & Electric
+Total: 115
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Bug
+Total: 115
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Electric
+Total: 113
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Normal
+Total: 117
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Dark
+Total: 117
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Poison
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Grass
+Total: 115
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Dark
+Total: 114
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Flying
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Fairy
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Dark
+Total: 114
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Dragon
+Total: 113
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Rock
+Total: 115
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Psychic
+Total: 117
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Dragon
+Total: 117
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Normal
+Total: 114
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Dragon
+Total: 116
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Flying & Water
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Rock
+Total: 117
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Fighting
+Total: 117
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Fire
+Total: 116
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Poison
+Total: 112
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Electric
+Total: 113
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Ghost & Bug
+Total: 114
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Normal
+Total: 111
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Dark
+Total: 116
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Ghost
+Total: 110
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Steel
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 111
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Ice
+Total: 117
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Grass
+Total: 115
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Normal
+Total: 116
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Bug
+Total: 118
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Bug
+Total: 117
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Grass & Ghost
+Total: 110
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Fairy
+Total: 112
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 114
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Normal
+Total: 114
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Ghost
+Total: 110
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Flying
+Total: 114
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Grass & Normal
+Total: 113
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Fairy
+Total: 113
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Water
+Total: 112
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 116
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Rock
+Total: 115
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Fire
+Total: 117
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Ghost
+Total: 119
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Ice
+Total: 109
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Dark
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Water & Flying
+Total: 113
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 109
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Steel
+Total: 114
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Psychic
+Total: 115
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Ground
+Total: 113
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Ground
+Total: 112
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Rock
+Total: 118
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Fairy
+Total: 114
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ground
+Total: 115
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 115
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 111
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Bug & Rock
+Total: 114
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 112
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Ground
+Total: 110
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Grass
+Total: 114
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Water
+Total: 115
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Electric
+Total: 114
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Flying
+Total: 115
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Ground
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Water
+Total: 117
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Fire
+Total: 110
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Psychic
+Total: 109
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Fire & Fairy
+Total: 112
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 113
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Ground
+Total: 117
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Flying & Dragon
+Total: 116
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Dark
+Total: 109
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fire
+Total: 115
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Fighting
+Total: 116
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Bug & Dragon
+Total: 108
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 115
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Dragon
+Total: 109
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Water
+Total: 117
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Rock
+Total: 112
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 110
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Dragon
+Total: 118
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Ground
+Total: 112
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Poison
+Total: 116
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Dark
+Total: 114
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Dragon
+Total: 112
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 114
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 115
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Ground
+Total: 112
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Fire
+Total: 114
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Water
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Poison
+Total: 114
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Steel
+Total: 109
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 115
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Bug
+Total: 110
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 117
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Poison
+Total: 112
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Bug
+Total: 114
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 117
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Dragon & Steel
+Total: 117
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Electric
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Normal
+Total: 112
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ghost
+Total: 116
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Fairy
+Total: 116
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Water
+Total: 116
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Poison
+Total: 117
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Ground & Flying
+Total: 110
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 111
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Poison
+Total: 115
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 110
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Poison
+Total: 107
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Normal
+Total: 115
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Steel
+Total: 112
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Ghost
+Total: 117
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Fairy
+Total: 115
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Fire
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Fairy
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Rock
+Total: 117
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 109
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Fighting
+Total: 107
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Psychic
+Total: 111
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Water
+Total: 107
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Steel
+Total: 114
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Dragon
+Total: 109
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Ice
+Total: 115
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Poison
+Total: 113
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 116
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Ghost
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Electric
+Total: 118
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Dragon & Fire
+Total: 111
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ground & Bug
+Total: 115
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 114
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Water
+Total: 112
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Electric
+Total: 115
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Rock
+Total: 115
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Rock
+Total: 114
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Fighting
+Total: 116
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Fire & Ghost
+Total: 116
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Psychic
+Total: 111
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 20
+Type: Bug
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Dragon & Fire
+Total: 113
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Steel
+Total: 114
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Dragon
+Total: 112
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Ghost
+Total: 116
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Dark
+Total: 115
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Electric
+Total: 111
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Steel & Fire
+Total: 115
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Steel
+Total: 116
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Fire
+Total: 111
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 117
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Ground
+Total: 111
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Fairy
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 114
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Water
+Total: 113
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Fire
+Total: 115
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 115
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Normal
+Total: 111
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Ice
+Total: 109
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Flying & Water
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Electric
+Total: 115
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Ground
+Total: 112
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Fairy
+Total: 118
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Ice
+Total: 115
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 113
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fighting
+Total: 110
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Bug
+Total: 113
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Bug
+Total: 111
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Water
+Total: 113
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Normal
+Total: 113
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Flying
+Total: 114
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Fighting
+Total: 117
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Water
+Total: 118
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Water
+Total: 113
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Rock
+Total: 114
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Poison
+Total: 118
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Normal
+Total: 115
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Fairy
+Total: 109
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Poison
+Total: 111
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Poison
+Total: 114
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Steel
+Total: 114
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Ghost
+Total: 113
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Fighting
+Total: 121
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Fairy
+Total: 112
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Flying
+Total: 112
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Dark & Poison
+Total: 116
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 115
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Poison
+Total: 115
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Fairy
+Total: 118
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Dragon & Fairy
+Total: 113
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Fighting
+Total: 114
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Ice
+Total: 115
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Steel
+Total: 118
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Rock
+Total: 117
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Dark
+Total: 110
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Flying
+Total: 109
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Normal & Ghost
+Total: 112
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Ice & Fire
+Total: 111
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Flying
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Ghost
+Total: 114
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Ghost
+Total: 115
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Ice
+Total: 118
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Dark
+Total: 115
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Fighting
+Total: 115
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Ghost
+Total: 117
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Electric
+Total: 114
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Rock & Dark
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Ground
+Total: 114
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Rock & Flying
+Total: 111
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Electric
+Total: 118
+HP: 30
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 117
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Electric
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Fire
+Total: 114
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Grass
+Total: 113
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Water
+Total: 117
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Rock
+Total: 114
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Normal
+Total: 112
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Ice
+Total: 114
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Psychic
+Total: 115
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Fairy
+Total: 114
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Dragon
+Total: 115
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Steel
+Total: 114
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Normal
+Total: 116
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Dark & Electric
+Total: 110
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Fairy & Ground
+Total: 118
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Steel
+Total: 112
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Grass
+Total: 117
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Fighting & Water
+Total: 109
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Ground
+Total: 113
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Electric
+Total: 118
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Electric
+Total: 113
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Dragon
+Total: 112
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Ground
+Total: 109
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Ground
+Total: 114
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 114
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 113
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Ghost
+Total: 110
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Water
+Total: 114
+HP: 30
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Bug
+Total: 115
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Grass
+Total: 110
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Rock
+Total: 118
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 117
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Grass & Fairy
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Flying
+Total: 117
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Steel
+Total: 116
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 20
+Type: Electric
+Total: 110
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Dark
+Total: 117
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Dark
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Rock
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Normal
+Total: 121
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Rock
+Total: 113
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 120
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Water
+Total: 114
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Grass
+Total: 115
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Fairy
+Total: 115
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 21
+Type: Psychic
+Total: 115
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Fire
+Total: 115
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Fighting & Fire
+Total: 112
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Rock
+Total: 111
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Psychic
+Total: 112
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Poison
+Total: 113
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 109
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ground
+Total: 114
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Water
+Total: 107
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Ice
+Total: 114
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Dark
+Total: 111
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Poison
+Total: 115
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Flying
+Total: 118
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Flying
+Total: 114
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Ice
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Fire
+Total: 116
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Steel
+Total: 115
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 110
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Rock
+Total: 114
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Normal
+Total: 112
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Dragon
+Total: 109
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Psychic
+Total: 116
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Ground & Water
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Normal
+Total: 113
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Ground
+Total: 113
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Fairy
+Total: 113
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Electric
+Total: 116
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Dragon
+Total: 113
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 19
+Type: Fire
+Total: 114
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Normal & Fire
+Total: 109
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Flying
+Total: 116
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Ice
+Total: 115
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Water
+Total: 114
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 21
+Type: Fighting
+Total: 116
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 115
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Ghost
+Total: 116
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Dragon
+Total: 114
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Psychic
+Total: 115
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Poison
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Psychic
+Total: 116
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Grass
+Total: 109
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 112
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Poison
+Total: 107
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Electric
+Total: 114
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Normal
+Total: 112
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ghost
+Total: 120
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 21
+Type: Dark
+Total: 113
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Rock
+Total: 114
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Dark
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 113
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Fairy
+Total: 111
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Fire
+Total: 116
+HP: 29
+Attack: 15
+Defense: 15
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Water
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 17
+Speed: 18
+Type: Ghost
+Total: 116
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Dragon & Grass
+Total: 109
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Dragon
+Total: 117
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Normal
+Total: 115
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Rock
+Total: 116
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Poison
+Total: 115
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Flying
+Total: 114
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Ice & Rock
+Total: 115
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Fairy
+Total: 117
+HP: 29
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Fire
+Total: 111
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fairy
+Total: 110
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Ice
+Total: 114
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Ice
+Total: 111
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 113
+HP: 27
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Flying
+Total: 118
+HP: 29
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 20
+Type: Rock
+Total: 111
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Ghost
+Total: 113
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Ice & Ice
+Total: 115
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 115
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Flying
+Total: 112
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Fighting
+Total: 115
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 19
+Type: Ghost
+Total: 108
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Bug
+Total: 113
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Dark
+Total: 116
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Fairy
+Total: 113
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Rock
+Total: 114
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Psychic
+Total: 113
+HP: 29
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Bug
+Total: 113
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Grass
+Total: 114
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fire
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 113
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Dragon & Dark
+Total: 113
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Fire
+Total: 113
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Fairy
+Total: 113
+HP: 27
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Flying
+Total: 113
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Fairy
+Total: 112
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Normal
+Total: 112
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Rock
+Total: 114
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 16
+Speed: 21
+Type: Fighting
+Total: 111
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Ice
+Total: 118
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Bug
+Total: 114
+HP: 29
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Ghost
+Total: 115
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Ice & Ghost
+Total: 115
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Rock
+Total: 115
+HP: 29
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Bug
+Total: 114
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Dark
+Total: 113
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Steel
+Total: 111
+HP: 28
+Attack: 18
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Poison
+Total: 114
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Fighting
+Total: 112
+HP: 27
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Steel
+Total: 112
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Normal
+Total: 117
+HP: 30
+Attack: 17
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Ghost
+Total: 117
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Water & Fire
+Total: 117
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Dark & Ground
+Total: 116
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 20
+Type: Fighting & Bug
+Total: 114
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Steel
+Total: 118
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Electric
+Total: 115
+HP: 29
+Attack: 18
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Rock
+Total: 116
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Dark
+Total: 109
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Dragon
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 115
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Steel
+Total: 116
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Flying
+Total: 108
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 17
+Special Defense: 15
+Speed: 19
+Type: Rock
+Total: 120
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 21
+Type: Steel
+Total: 112
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Ghost
+Total: 116
+HP: 30
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Fire
+Total: 113
+HP: 30
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 113
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Psychic
+Total: 116
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 113
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Electric & Ground
+Total: 113
+HP: 28
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 118
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Dragon
+Total: 108
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Normal
+Total: 117
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Grass
+Total: 109
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ghost
+Total: 113
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Rock & Electric
+Total: 108
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Bug & Poison
+Total: 121
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Rock
+Total: 115
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Bug
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Water
+Total: 112
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 15
+Speed: 20
+Type: Dragon
+Total: 115
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Ice
+Total: 110
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Fairy & Ice
+Total: 116
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 21
+Type: Fairy & Ghost
+Total: 111
+HP: 27
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Grass
+Total: 118
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 21
+Type: Rock
+Total: 117
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Psychic & Rock
+Total: 118
+HP: 30
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Fairy
+Total: 115
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Steel
+Total: 111
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 21
+Type: Poison
+Total: 111
+HP: 27
+Attack: 16
+Defense: 13
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Ice
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Flying
+Total: 112
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Normal
+Total: 117
+HP: 28
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Psychic
+Total: 117
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Electric
+Total: 112
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Dark
+Total: 112
+HP: 27
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Flying
+Total: 119
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Fighting
+Total: 114
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Fire & Rock
+Total: 113
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 20
+Type: Bug
+Total: 115
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 17
+Speed: 19
+Type: Dragon
+Total: 114
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Dragon
+Total: 111
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Water
+Total: 112
+HP: 27
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Fire
+Total: 111
+HP: 27
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 109
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Ground
+Total: 113
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Poison
+Total: 115
+HP: 28
+Attack: 18
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 19
+Type: Fairy
+Total: 113
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Fighting
+Total: 114
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Psychic
+Total: 114
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 110
+HP: 28
+Attack: 15
+Defense: 15
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Fairy
+Total: 109
+HP: 28
+Attack: 16
+Defense: 13
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Poison
+Total: 111
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 15
+Speed: 18
+Type: Water
+Total: 115
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 17
+Special Defense: 18
+Speed: 19
+Type: Water
+Total: 111
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Flying
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 19
+Type: Ice
+Total: 116
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 18
+Special Defense: 17
+Speed: 21
+Type: Rock
+Total: 113
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 19
+Special Defense: 15
+Speed: 18
+Type: Fire
+Total: 112
+HP: 28
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Dark
+Total: 115
+HP: 30
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Psychic
+Total: 112
+HP: 28
+Attack: 15
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Steel
+Total: 116
+HP: 29
+Attack: 16
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 20
+Type: Normal
+Total: 115
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Water
+Total: 117
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Ground
+Total: 113
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 113
+HP: 28
+Attack: 15
+Defense: 14
+Special Attack: 19
+Special Defense: 18
+Speed: 19
+Type: Dark
+Total: 114
+HP: 29
+Attack: 18
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Ghost
+Total: 116
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Flying
+Total: 116
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 21
+Type: Flying
+Total: 116
+HP: 27
+Attack: 18
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Flying
+Total: 113
+HP: 27
+Attack: 15
+Defense: 16
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Psychic
+Total: 117
+HP: 30
+Attack: 16
+Defense: 13
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Fighting
+Total: 118
+HP: 30
+Attack: 18
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Normal & Grass
+Total: 113
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 16
+Speed: 18
+Type: Water
+Total: 114
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 16
+Speed: 20
+Type: Psychic
+Total: 114
+HP: 28
+Attack: 17
+Defense: 16
+Special Attack: 17
+Special Defense: 15
+Speed: 21
+Type: Grass
+Total: 116
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 17
+Speed: 18
+Type: Ground
+Total: 116
+HP: 28
+Attack: 16
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Ground
+Total: 114
+HP: 27
+Attack: 18
+Defense: 14
+Special Attack: 17
+Special Defense: 18
+Speed: 20
+Type: Steel
+Total: 120
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Ghost
+Total: 113
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 18
+Type: Ice
+Total: 117
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Bug
+Total: 115
+HP: 28
+Attack: 18
+Defense: 16
+Special Attack: 20
+Special Defense: 15
+Speed: 18
+Type: Rock
+Total: 109
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 17
+Special Defense: 16
+Speed: 19
+Type: Dragon
+Total: 115
+HP: 28
+Attack: 17
+Defense: 15
+Special Attack: 19
+Special Defense: 18
+Speed: 18
+Type: Grass
+Total: 111
+HP: 28
+Attack: 15
+Defense: 13
+Special Attack: 20
+Special Defense: 16
+Speed: 19
+Type: Fighting
+Total: 117
+HP: 30
+Attack: 18
+Defense: 16
+Special Attack: 17
+Special Defense: 18
+Speed: 18
+Type: Ice
+Total: 115
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 20
+Special Defense: 17
+Speed: 20
+Type: Rock
+Total: 113
+HP: 27
+Attack: 16
+Defense: 15
+Special Attack: 19
+Special Defense: 17
+Speed: 19
+Type: Steel & Flying
+Total: 113
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Fire
+Total: 112
+HP: 27
+Attack: 17
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 19
+Type: Ghost
+Total: 113
+HP: 30
+Attack: 17
+Defense: 14
+Special Attack: 17
+Special Defense: 15
+Speed: 20
+Type: Normal & Normal
+Total: 117
+HP: 30
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 20
+Type: Steel
+Total: 116
+HP: 27
+Attack: 18
+Defense: 15
+Special Attack: 19
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 113
+HP: 27
+Attack: 16
+Defense: 14
+Special Attack: 20
+Special Defense: 15
+Speed: 21
+Type: Fire
+Total: 115
+HP: 30
+Attack: 16
+Defense: 16
+Special Attack: 17
+Special Defense: 16
+Speed: 20
+Type: Fairy
+Total: 110
+HP: 28
+Attack: 17
+Defense: 13
+Special Attack: 18
+Special Defense: 16
+Speed: 18
+Type: Fire
+Total: 117
+HP: 29
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Fairy
+Total: 115
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 20
+Special Defense: 16
+Speed: 21
+Type: Steel
+Total: 115
+HP: 29
+Attack: 18
+Defense: 14
+Special Attack: 19
+Special Defense: 17
+Speed: 18
+Type: Fairy
+Total: 112
+HP: 29
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 17
+Speed: 18
+Type: Ice
+Total: 112
+HP: 29
+Attack: 17
+Defense: 13
+Special Attack: 17
+Special Defense: 17
+Speed: 19
+Type: Rock
+Total: 110
+HP: 28
+Attack: 16
+Defense: 14
+Special Attack: 18
+Special Defense: 15
+Speed: 19
+Type: Ice
+Total: 112
+HP: 27
+Attack: 16
+Defense: 16
+Special Attack: 19
+Special Defense: 15
+Speed: 19
+Type: Dark
+Total: 118
+HP: 29
+Attack: 17
+Defense: 16
+Special Attack: 18
+Special Defense: 18
+Speed: 20
+Type: Fairy
+Total: 113
+HP: 30
+Attack: 16
+Defense: 14
+Special Attack: 19
+Special Defense: 16
+Speed: 18
+Type: Fighting
+Total: 118
+HP: 29
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 19
+Type: Fire
+Total: 119
+HP: 30
+Attack: 15
+Defense: 16
+Special Attack: 20
+Special Defense: 18
+Speed: 20
+Type: Rock
+Total: 112
+HP: 29
+Attack: 15
+Defense: 14
+Special Attack: 18
+Special Defense: 18
+Speed: 18
+Type: Steel
+Total: 121
+HP: 30
+Attack: 17
+Defense: 15
+Special Attack: 20
+Special Defense: 18
+Speed: 21
+Type: Grass
